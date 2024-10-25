@@ -1,0 +1,5 @@
+0. Instalujemy pipenv (tylko raz na komputer): pip install pipenv
+
+1. Tworzymy środowisko virtualne: pipenv shell
+2. Wszukujemy ustawienie (shift+ctrl+p) "Python: Wybierz interpretera" i wybieramy nowo stworzone środowisko (to te, które w nawiasie ma nazwę folderu projektu)
+3. Od teraz biblioteki instalujemy za pomocą polecenia pipenv install, zamast pip install

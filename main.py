@@ -1,2 +1,2 @@
-print("test")
-a = 5
+import flask
+
